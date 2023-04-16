@@ -64,7 +64,7 @@ We can broaden some of our focus to improve our efficiency.
 ## DATASET USED
 Training and Testing(include validating)
 
-## Certificate of Conference ICSCDS-2023(IEEE Xplore)
+## Certificate of Conference Research Paper Publication ICSCDS-2023(IEEE Xplore)
 
 ![89-1_page-0001](https://user-images.githubusercontent.com/74000137/232327776-622aea61-0f75-4b80-b497-687abf54aa13.jpg)
 
