@@ -6,20 +6,35 @@ Our Aim is to Deep Learning techniques such that convolutional neural networks (
 
 ## CONTENTS
 ->Import all the Dependencies
+
 ->Set constant size
+
 ->Import fruits data into tensorflow dataset object
+
 ->Visualize some of the images from our dataset
+
 ->Function to Split Dataset
+
 ->Cache, Shuffle, and Prefetch the Dataset
+
 ->Building the Model
+
 ->Creating a Layer for Resizing and Normalization
+
 ->Data Augumentation
+
 ->Apply Data Augumentation on Training Data
+
 ->Model Deployment & Architecture
+
 ->Compiling the Model
+
 ->Plotting the accuracy and loss curves
+
 ->Run prediction on a sample image
+
 ->Write a function for inference
+
 ->Saving the Model
 
 ## Potential improvements:-
@@ -44,4 +59,5 @@ We can broaden some of our focus to improve our efficiency.
 ## CHECK OUT MY ARTICLES HERE
 LINKS:-
 https://bit.ly/41alwpl
+
 https://bit.ly/40baA9t
