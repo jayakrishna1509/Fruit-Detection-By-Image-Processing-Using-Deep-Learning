@@ -68,6 +68,8 @@ Training and Testing(include validating)
 
 ![89-1_page-0001](https://user-images.githubusercontent.com/74000137/232327776-622aea61-0f75-4b80-b497-687abf54aa13.jpg)
 
+## Presentation Link PPT:- https://bit.ly/3A0Ul42
+
 
 ## CHECK OUT MY ARTICLES HERE
 LINKS:-
