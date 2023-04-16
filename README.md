@@ -1,4 +1,4 @@
-# Fruit-Detection-By-Image-Processing-Using-Deep-Learning
+# Improved-Fruit-Detection-By-Image-Processing-Using-Deep-Learning
 
 MINI WORKING PROJECT
 
@@ -55,6 +55,9 @@ We can broaden some of our focus to improve our efficiency.
 • Cost-effective
 
 . Environment Path
+
+## DATASET USED
+Training and Testing(include validating)
 
 ## CHECK OUT MY ARTICLES HERE
 LINKS:-
