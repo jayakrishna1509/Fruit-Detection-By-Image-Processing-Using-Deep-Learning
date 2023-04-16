@@ -37,6 +37,11 @@ Our Aim is to Deep Learning techniques such that convolutional neural networks (
 
 ->Saving the Model
 
+## Poster Presentation of the Project
+
+![A2 Poster Template](https://user-images.githubusercontent.com/74000137/232327516-cd70f6c9-6c7c-4aad-80b3-0f92666d9c99.jpg)
+
+
 ## Potential improvements:-
 Since very little was known about fruit detection when this study was initiated.
 
