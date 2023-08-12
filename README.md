@@ -75,6 +75,7 @@ Training and Testing(include validating)
 LINKS:-
 https://bit.ly/41alwpl
 
+
 https://bit.ly/40baA9t
 
 ## RESEARCH PUBLICATION IEEE Xplore - (ICSCDS-2023) JOURNAL CONFERENCE
@@ -82,4 +83,4 @@ Check out my article in IEEE Xplore Digital:-
 https://bit.ly/3YAdpSu
 
 Check out Research Gate Article:-
-bit.ly/3s82KSI
+https://bit.ly/3s82KSI
