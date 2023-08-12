@@ -2,14 +2,14 @@
 
 MINI WORKING PROJECT
 
-Our Aim is to Deep Learning techniques such that convolutional neural networks (CNNs) models test the frameworks and validate the dataset through training and testing fruit images to get ripe or damaged quality of the freshness of the fruit.
+Our Aim is to Deep Learning techniques such that convolutional neural networks (CNNs) models test the frameworks and validate the dataset through training and testing fruit images to get the ripe or damaged quality of the freshness of the fruit.
 
 ## CONTENTS
 ->Import all the Dependencies
 
 ->Set constant size
 
-->Import fruits data into tensorflow dataset object
+->Import fruits data into the TensorFlow dataset object
 
 ->Visualize some of the images from our dataset
 
@@ -21,9 +21,9 @@ Our Aim is to Deep Learning techniques such that convolutional neural networks (
 
 ->Creating a Layer for Resizing and Normalization
 
-->Data Augumentation
+->Data Augmentation
 
-->Apply Data Augumentation on Training Data
+->Apply Data Augmentation on Training Data
 
 ->Model Deployment & Architecture
 
@@ -76,3 +76,10 @@ LINKS:-
 https://bit.ly/41alwpl
 
 https://bit.ly/40baA9t
+
+## RESEARCH PUBLICATION IEEE Xplore - (ICSCDS-2023) JOURNAL CONFERENCE
+Check out my article in IEEE Xplore Digital:-
+https://bit.ly/3YAdpSu
+
+Check out Research Gate Article:-
+bit.ly/3s82KSI
