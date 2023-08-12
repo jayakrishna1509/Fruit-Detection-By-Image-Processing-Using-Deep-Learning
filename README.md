@@ -80,7 +80,7 @@ https://bit.ly/40baA9t
 
 ## RESEARCH PUBLICATION IEEE Xplore - (ICSCDS-2023) JOURNAL CONFERENCE
 Check out my article in IEEE Xplore Digital:-
-https://bit.ly/3YAdpSu
+https://rb.gy/gu9bo
 
 Check out Research Gate Article:-
-https://bit.ly/3s82KSI
+https://rb.gy/47brn
